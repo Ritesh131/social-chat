@@ -28,6 +28,7 @@ SECRET_KEY = '81&q$+o#^wgs7e9b_g*a^f)zw3npz(kq!ei!8wfg)*=x-q^^8v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+ALLOWED_HOSTS = ['sgpl-chat.herokuapp.com']
 
 # Application definition
 

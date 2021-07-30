@@ -6,7 +6,7 @@ mimetypes.add_type("text/css", ".css", True)
 DB_DIR = Path(__file__).resolve().parent.parent
 
 
-ALLOWED_HOSTS = ['*']
+# ALLOWED_HOSTS = ['*']
 
 DATABASES = {
     'default': {
