@@ -222,9 +222,9 @@ SENDER_NAME = 'Inkster Team'
 #     raise
 
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': Path(__file__).resolve(strict=True).parent.parent / 'db.sqlite3',
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': Path(__file__).resolve(strict=True).parent.parent / 'db.sqlite3',
+#     }
+# }
