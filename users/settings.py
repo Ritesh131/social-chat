@@ -122,16 +122,16 @@ CHANNEL_LAYERS = {
     },
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'inkster',
-#         'USER': 'ritesh_db',
-#         'PASSWORD': 'Rb@12345',
-#         'HOST': '127.0.0.1',
-#         'PORT': '',
-#     }
-# }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'inkster',
+        'USER': 'ritesh_db',
+        'PASSWORD': 'Rb@12345',
+        'HOST': '127.0.0.1',
+        'PORT': '',
+    }
+}
 
 # DATABASES = {
 #     'default': {
