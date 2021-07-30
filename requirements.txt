@@ -20,4 +20,5 @@ channels-redis
 icecream
 asgiref
 aioredis
+daphne
 #asgi_redis
